@@ -9,4 +9,11 @@ Searching the catalogue:
 set the distance to between 12 and 24 parsecs
 and temperature, T_eff to something low as we are looking at red dwarfs that will have rapidly orbiting planets, which suits are data.
 
-With tge results of that search we can use the star Id to look in [exomast](https://exo.mast.stsci.edu/) to see if exoplanets have already been found.
+With the results of that search we can use the star Id to look in [exomast](https://exo.mast.stsci.edu/) to see if exoplanets have already been found.
+
+Let's try:
+
+436013452 - no planets found
+
+Download the fits file containing pixel data for this star and look for transit spikes.
+
